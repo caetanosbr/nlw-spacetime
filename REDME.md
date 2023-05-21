@@ -1,7 +1,7 @@
-<h1 align="center"> Jogo de Adivinhação </h1>
+<h1 align="center"> NLW Space Time</h1>
 
 <p align="center">
-  <img alt="imagem" src=./assets/jogo.png>
+  <img alt="imagem" src=.github/preview.jpg width="100%" />
 </p>
 
 ---
