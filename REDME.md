@@ -5,23 +5,20 @@
 </p>
 
 ---
+## 💻 Projeto
+Esse é um projeto web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido No Evento NLW da Rochetseat com as seguintes tecnologias:
 
 - Estrutura de dados HTML
 - Animações com CSS
-- Funções no Javascript
-- Manipulação da DOM
-- Biblioteca JS Math()
-- Funções *callback*
-
-## 💻 Projeto
+- Git e Github
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/6hNqLzW3vwM6HCt0QDk6rd/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=0-1&t=ZR4PkZnSSjoHkJ9e-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/sDbv7NdFLtc9DgzVSrLnqV/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)?type=design&node-id=306-3&t=LBr2CAod3MvpLH8n-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## : Licença
 
